@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">transiciones2</string>
+    <string name="BotonExplode">Explode</string>
+    <string name="BotonSlide">Slide</string>
+    <string name="BotonFade">Fade</string>
+    <string name="tv1">actividad principal</string>
+    <string name="BotonAnterior">Anterior</string>
+    <string name="tv2">actividad explode</string>
+    <string name="BotonAnterior2">Anterior</string>
+    <string name="tv3">ActividadSlide</string>
+    <string name="BotonAnterior3">Anterior</string>
+    <string name="tv4">Actividad Fade</string>
+    <string name="BotonZoom">Zoom</string>
+</resources>
